@@ -1,0 +1,7 @@
+{
+  "name": "UrbanAlert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
