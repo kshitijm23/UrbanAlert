@@ -9,7 +9,6 @@ Welcome to UrbanAlert, an Ionic React App designed for the well-being of the peo
 - [Installing Dependencies](#installing-dependencies)
 - [Running the App](#running-the-app)
 - [Building the App](#building-the-app)
-- [Contributing](#contributing)
 
 ## Getting Started
 
