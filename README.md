@@ -24,7 +24,6 @@ Make sure you have the following installed on your machine:
 - [Ionic CLI](https://ionicframework.com/docs/cli/installation)
 
 ###To install the Ionic CLI, run:
-```bash
 npm install -g @ionic/cli
 
 #Installing Dependencies
