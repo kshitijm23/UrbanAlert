@@ -13,7 +13,7 @@ Welcome to UrbanAlert, an Ionic React App designed for the well-being of the peo
 
 ## Getting Started
 
-You can follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+You'll be able to follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ Make sure you have the following installed on your machine:
 ```bash
 npm install -g @ionic/cli
 
-###Installing Dependencies
+#Installing Dependencies
 Clone the repository to your local machine:
 git clone https://github.com/yourusername/myapp.git
 cd UrbanAlert
