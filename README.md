@@ -24,14 +24,16 @@ Make sure you have the following installed on your machine:
 - [Ionic CLI](https://ionicframework.com/docs/cli/installation)
 
 ###To install the Ionic CLI, run:
+
 npm install -g @ionic/cli
 
-#Installing Dependencies
+###Installing Dependencies
+
 Clone the repository to your local machine:
 git clone https://github.com/yourusername/myapp.git
 cd UrbanAlert
 
-#Install the project dependencies:
+###Install the project dependencies:
 npm install
 Running the App
 
