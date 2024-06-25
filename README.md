@@ -28,7 +28,7 @@ npm install -g @ionic/cli
 
 ## Installing Dependencies
 
-### Clone the repository to your local machine:
+ Clone the repository to your local machine:
 
 git clone https://github.com/yourusername/myapp.git
 
@@ -40,16 +40,16 @@ npm install
 
 ## Running the App
 
-### To start the development server and run the app in your browser, use the following:
+ To start the development server and run the app in your browser, use the following:
 
 ionic serve
 
-### This will open a new browser window/tab with the app running at http://localhost:8100/.
+ This will open a new browser window/tab with the app running at http://localhost:8100/.
 
 ## Building the App
 
-### To build the app for production, run:
+ To build the app for production, run:
 
 ionic build
 
-### The build output will be located in the build/ directory.
+ The build output will be located in the build/ directory.
