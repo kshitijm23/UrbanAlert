@@ -30,7 +30,7 @@ npm install -g @ionic/cli
 
  Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/myapp.git
+git clone [https://github.com/yourusername/myapp.git](https://github.com/kshitijm23/UrbanAlert.git)
 
 cd UrbanAlert
 
